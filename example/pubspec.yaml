@@ -1,0 +1,16 @@
+name: unity_ads_flutter_example
+description: Demonstrates how to use the unity_ads_flutter plugin.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  unity_ads_flutter:
+    path: ../
+
+flutter:
+  uses-material-design: true
