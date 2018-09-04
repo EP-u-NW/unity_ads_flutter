@@ -34,5 +34,5 @@ android {
 }
 
 dependencies {
-    api files('src/main/libs/unity-ads-2.2.1.aar')
+    api files('src/main/libs/unity-ads-2.3.0.aar')
 }
