@@ -1,3 +1,9 @@
+
+# Discontinued
+Use [unity_ads_plugin](https://pub.dev/packages/unity_ads_plugin) instead
+
+---
+
 # unity_ads_flutter
 
 Unity Ads for Flutter.
